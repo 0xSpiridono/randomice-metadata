@@ -1,0 +1,48 @@
+{
+    "name": "RandoMouse #6042",
+    "external_link": "https://randomice.io/",
+    "image": "https://ipfs.io/ipfs/QmT4ozUFisQN3JxoFfFpRzEPW2sV5Bw8b5BRoc9VLD8Xpi/6042.png",
+    "animation_url": "https://raw.githubusercontent.com/spiridono666/randomice-html/master/6042.html",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Multicolor"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Big Green "
+        },
+        {
+            "trait_type": "Head",
+            "value": "Purple"
+        },
+        {
+            "trait_type": "Beard",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "Pink Cubism"
+        },
+        {
+            "trait_type": "Whiskers",
+            "value": "Wavy"
+        },
+        {
+            "trait_type": "Nose",
+            "value": "Brown"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Goofy Teeth"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Cheeth"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Monocle"
+        }
+    ]
+}

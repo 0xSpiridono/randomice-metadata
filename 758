@@ -1,0 +1,48 @@
+{
+    "name": "RandoMouse #758",
+    "external_link": "https://randomice.io/",
+    "image": "https://ipfs.io/ipfs/QmT4ozUFisQN3JxoFfFpRzEPW2sV5Bw8b5BRoc9VLD8Xpi/758.png",
+    "animation_url": "https://raw.githubusercontent.com/spiridono666/randomice-html/master/758.html",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Digger"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Yellow"
+        },
+        {
+            "trait_type": "Beard",
+            "value": "Blue Beard"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "Brown Hearts"
+        },
+        {
+            "trait_type": "Whiskers",
+            "value": "Arrows"
+        },
+        {
+            "trait_type": "Nose",
+            "value": "Purple"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Orc"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Fez"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Nerd"
+        }
+    ]
+}

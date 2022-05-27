@@ -1,0 +1,48 @@
+{
+    "name": "RandoMouse #4964",
+    "external_link": "https://randomice.io/",
+    "image": "https://ipfs.io/ipfs/QmT4ozUFisQN3JxoFfFpRzEPW2sV5Bw8b5BRoc9VLD8Xpi/4964.png",
+    "animation_url": "https://raw.githubusercontent.com/spiridono666/randomice-html/master/4964.html",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Office Guy"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Beard",
+            "value": "Scarface"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "Brown Hearts"
+        },
+        {
+            "trait_type": "Whiskers",
+            "value": "Zigzag"
+        },
+        {
+            "trait_type": "Nose",
+            "value": "Pink"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Square Grin"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Green Cap"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Sus"
+        }
+    ]
+}

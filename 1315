@@ -1,0 +1,48 @@
+{
+    "name": "RandoMouse #1315",
+    "external_link": "https://randomice.io/",
+    "image": "https://ipfs.io/ipfs/QmT4ozUFisQN3JxoFfFpRzEPW2sV5Bw8b5BRoc9VLD8Xpi/1315.png",
+    "animation_url": "https://raw.githubusercontent.com/spiridono666/randomice-html/master/1315.html",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Pink Yellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Vampire"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Purple"
+        },
+        {
+            "trait_type": "Beard",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "Pink Round"
+        },
+        {
+            "trait_type": "Whiskers",
+            "value": "Arrows"
+        },
+        {
+            "trait_type": "Nose",
+            "value": "Brown"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Yucky"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "XX"
+        }
+    ]
+}

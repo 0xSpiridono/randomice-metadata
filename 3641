@@ -1,0 +1,48 @@
+{
+    "name": "RandoMouse #3641",
+    "external_link": "https://randomice.io/",
+    "image": "https://ipfs.io/ipfs/QmT4ozUFisQN3JxoFfFpRzEPW2sV5Bw8b5BRoc9VLD8Xpi/3641.png",
+    "animation_url": "https://raw.githubusercontent.com/spiridono666/randomice-html/master/3641.html",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Teal Pink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hoodie Purple"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Purple"
+        },
+        {
+            "trait_type": "Beard",
+            "value": "Blue Beard"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "Pink Cubism"
+        },
+        {
+            "trait_type": "Whiskers",
+            "value": "Zigzag"
+        },
+        {
+            "trait_type": "Nose",
+            "value": "Brown"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Grin"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Prehistoric"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Dumb"
+        }
+    ]
+}

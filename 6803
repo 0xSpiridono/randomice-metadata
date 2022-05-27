@@ -1,0 +1,48 @@
+{
+    "name": "RandoMouse #6803",
+    "external_link": "https://randomice.io/",
+    "image": "https://ipfs.io/ipfs/QmT4ozUFisQN3JxoFfFpRzEPW2sV5Bw8b5BRoc9VLD8Xpi/6803.png",
+    "animation_url": "https://raw.githubusercontent.com/spiridono666/randomice-html/master/6803.html",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Teal Pink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hoodie Green"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Purple"
+        },
+        {
+            "trait_type": "Beard",
+            "value": "Purple Beard"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "Pink Round"
+        },
+        {
+            "trait_type": "Whiskers",
+            "value": "Arrows"
+        },
+        {
+            "trait_type": "Nose",
+            "value": "Purple"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "O"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Sunny Side Up"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Sus"
+        }
+    ]
+}

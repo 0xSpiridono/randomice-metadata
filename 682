@@ -1,0 +1,48 @@
+{
+    "name": "RandoMouse #682",
+    "external_link": "https://randomice.io/",
+    "image": "https://ipfs.io/ipfs/QmT4ozUFisQN3JxoFfFpRzEPW2sV5Bw8b5BRoc9VLD8Xpi/682.png",
+    "animation_url": "https://raw.githubusercontent.com/spiridono666/randomice-html/master/682.html",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Green"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Sweaty"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Yellow"
+        },
+        {
+            "trait_type": "Beard",
+            "value": "Unsexy Stubble"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "Brown Hearts"
+        },
+        {
+            "trait_type": "Whiskers",
+            "value": "Wavy"
+        },
+        {
+            "trait_type": "Nose",
+            "value": "Pink"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Orc"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Bald"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoner"
+        }
+    ]
+}

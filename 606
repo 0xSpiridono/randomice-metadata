@@ -1,0 +1,48 @@
+{
+    "name": "RandoMouse #606",
+    "external_link": "https://randomice.io/",
+    "image": "https://ipfs.io/ipfs/QmT4ozUFisQN3JxoFfFpRzEPW2sV5Bw8b5BRoc9VLD8Xpi/606.png",
+    "animation_url": "https://raw.githubusercontent.com/spiridono666/randomice-html/master/606.html",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Purple Peach"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Batmouse"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Grey"
+        },
+        {
+            "trait_type": "Beard",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "Brown Weird"
+        },
+        {
+            "trait_type": "Whiskers",
+            "value": "Straight"
+        },
+        {
+            "trait_type": "Nose",
+            "value": "Pink"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "uWu"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Blue Punk"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Lasers"
+        }
+    ]
+}

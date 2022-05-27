@@ -1,0 +1,48 @@
+{
+    "name": "RandoMouse #2483",
+    "external_link": "https://randomice.io/",
+    "image": "https://ipfs.io/ipfs/QmT4ozUFisQN3JxoFfFpRzEPW2sV5Bw8b5BRoc9VLD8Xpi/2483.png",
+    "animation_url": "https://raw.githubusercontent.com/spiridono666/randomice-html/master/2483.html",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Purple Peach"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Big Green "
+        },
+        {
+            "trait_type": "Head",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Beard",
+            "value": "Blue Beard"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "Brown Round"
+        },
+        {
+            "trait_type": "Whiskers",
+            "value": "Springs"
+        },
+        {
+            "trait_type": "Nose",
+            "value": "Brown"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "O"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Scar"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Black Shades"
+        }
+    ]
+}

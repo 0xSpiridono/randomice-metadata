@@ -1,0 +1,48 @@
+{
+    "name": "RandoMouse #26",
+    "external_link": "https://randomice.io/",
+    "image": "https://ipfs.io/ipfs/QmT4ozUFisQN3JxoFfFpRzEPW2sV5Bw8b5BRoc9VLD8Xpi/26.png",
+    "animation_url": "https://raw.githubusercontent.com/spiridono666/randomice-html/master/26.html",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Green"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hoodie Blue"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Purple"
+        },
+        {
+            "trait_type": "Beard",
+            "value": "White Beard"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "Brown Round"
+        },
+        {
+            "trait_type": "Whiskers",
+            "value": "Straight"
+        },
+        {
+            "trait_type": "Nose",
+            "value": "Purple"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Nom Nom"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Beanie"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Tired"
+        }
+    ]
+}

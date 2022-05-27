@@ -1,0 +1,48 @@
+{
+    "name": "RandoMouse #1994",
+    "external_link": "https://randomice.io/",
+    "image": "https://ipfs.io/ipfs/QmT4ozUFisQN3JxoFfFpRzEPW2sV5Bw8b5BRoc9VLD8Xpi/1994.png",
+    "animation_url": "https://raw.githubusercontent.com/spiridono666/randomice-html/master/1994.html",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Pink Yellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Aristocrat"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Beard",
+            "value": "Brown Beard"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "Pink Cubism"
+        },
+        {
+            "trait_type": "Whiskers",
+            "value": "Straight"
+        },
+        {
+            "trait_type": "Nose",
+            "value": "Pink"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Pipe"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Green Punk"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoner"
+        }
+    ]
+}

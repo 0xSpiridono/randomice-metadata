@@ -1,0 +1,48 @@
+{
+    "name": "RandoMouse #4705",
+    "external_link": "https://randomice.io/",
+    "image": "https://ipfs.io/ipfs/QmT4ozUFisQN3JxoFfFpRzEPW2sV5Bw8b5BRoc9VLD8Xpi/4705.png",
+    "animation_url": "https://raw.githubusercontent.com/spiridono666/randomice-html/master/4705.html",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Pink Yellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Stripes"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Green Yellow"
+        },
+        {
+            "trait_type": "Beard",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "Pink Round"
+        },
+        {
+            "trait_type": "Whiskers",
+            "value": "Wavy"
+        },
+        {
+            "trait_type": "Nose",
+            "value": "Purple"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Yummy"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Prehistoric"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Adorable"
+        }
+    ]
+}

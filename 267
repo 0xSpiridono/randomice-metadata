@@ -1,0 +1,48 @@
+{
+    "name": "RandoMouse #267",
+    "external_link": "https://randomice.io/",
+    "image": "https://ipfs.io/ipfs/QmT4ozUFisQN3JxoFfFpRzEPW2sV5Bw8b5BRoc9VLD8Xpi/267.png",
+    "animation_url": "https://raw.githubusercontent.com/spiridono666/randomice-html/master/267.html",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Pink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Star"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Beard",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "Pink Hearts"
+        },
+        {
+            "trait_type": "Whiskers",
+            "value": "Curly"
+        },
+        {
+            "trait_type": "Nose",
+            "value": "Black"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Grin"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Borgar"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Sleepy"
+        }
+    ]
+}

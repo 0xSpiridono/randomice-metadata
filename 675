@@ -1,0 +1,48 @@
+{
+    "name": "RandoMouse #675",
+    "external_link": "https://randomice.io/",
+    "image": "https://ipfs.io/ipfs/QmT4ozUFisQN3JxoFfFpRzEPW2sV5Bw8b5BRoc9VLD8Xpi/675.png",
+    "animation_url": "https://raw.githubusercontent.com/spiridono666/randomice-html/master/675.html",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Green"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Vampire"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Yellow"
+        },
+        {
+            "trait_type": "Beard",
+            "value": "Blue Beard"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "Pink Cubism"
+        },
+        {
+            "trait_type": "Whiskers",
+            "value": "Zigzag"
+        },
+        {
+            "trait_type": "Nose",
+            "value": "Purple"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "uWu"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Bzzzzz"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Nouns Red"
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "name": "RandoMouse #2250",
+    "external_link": "https://randomice.io/",
+    "image": "https://ipfs.io/ipfs/QmT4ozUFisQN3JxoFfFpRzEPW2sV5Bw8b5BRoc9VLD8Xpi/2250.png",
+    "animation_url": "https://raw.githubusercontent.com/spiridono666/randomice-html/master/2250.html",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Teal Pink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Jumper Yellow"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Beard",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "Pink Weird"
+        },
+        {
+            "trait_type": "Whiskers",
+            "value": "Springs"
+        },
+        {
+            "trait_type": "Nose",
+            "value": "Purple"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Grin"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Hole"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Cartoon"
+        }
+    ]
+}

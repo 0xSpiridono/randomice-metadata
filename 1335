@@ -1,0 +1,48 @@
+{
+    "name": "RandoMouse #1335",
+    "external_link": "https://randomice.io/",
+    "image": "https://ipfs.io/ipfs/QmT4ozUFisQN3JxoFfFpRzEPW2sV5Bw8b5BRoc9VLD8Xpi/1335.png",
+    "animation_url": "https://raw.githubusercontent.com/spiridono666/randomice-html/master/1335.html",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Purple Peach"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Moon"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Green Yellow"
+        },
+        {
+            "trait_type": "Beard",
+            "value": "Sexy Stubble"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "Pink Round"
+        },
+        {
+            "trait_type": "Whiskers",
+            "value": "Straight"
+        },
+        {
+            "trait_type": "Nose",
+            "value": "Black"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Goofy Teeth"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "One Mighty Hair"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "XX"
+        }
+    ]
+}

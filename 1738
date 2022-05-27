@@ -1,0 +1,48 @@
+{
+    "name": "RandoMouse #1738",
+    "external_link": "https://randomice.io/",
+    "image": "https://ipfs.io/ipfs/QmT4ozUFisQN3JxoFfFpRzEPW2sV5Bw8b5BRoc9VLD8Xpi/1738.png",
+    "animation_url": "https://raw.githubusercontent.com/spiridono666/randomice-html/master/1738.html",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Green"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Aristocrat"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Purple"
+        },
+        {
+            "trait_type": "Beard",
+            "value": "Sexy Stubble"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "Brown Weird"
+        },
+        {
+            "trait_type": "Whiskers",
+            "value": "Springs"
+        },
+        {
+            "trait_type": "Nose",
+            "value": "Purple"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Tooth"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Straw"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoner"
+        }
+    ]
+}

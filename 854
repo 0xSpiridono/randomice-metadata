@@ -1,0 +1,48 @@
+{
+    "name": "RandoMouse #854",
+    "external_link": "https://randomice.io/",
+    "image": "https://ipfs.io/ipfs/QmT4ozUFisQN3JxoFfFpRzEPW2sV5Bw8b5BRoc9VLD8Xpi/854.png",
+    "animation_url": "https://raw.githubusercontent.com/spiridono666/randomice-html/master/854.html",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Teal Pink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Fancy"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Grey"
+        },
+        {
+            "trait_type": "Beard",
+            "value": "White Beard"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "Pink Weird"
+        },
+        {
+            "trait_type": "Whiskers",
+            "value": "Springs"
+        },
+        {
+            "trait_type": "Nose",
+            "value": "Brown"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Yucky"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Antennas"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Nouns Red"
+        }
+    ]
+}

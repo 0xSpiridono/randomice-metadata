@@ -1,0 +1,48 @@
+{
+    "name": "RandoMouse #5168",
+    "external_link": "https://randomice.io/",
+    "image": "https://ipfs.io/ipfs/QmT4ozUFisQN3JxoFfFpRzEPW2sV5Bw8b5BRoc9VLD8Xpi/5168.png",
+    "animation_url": "https://raw.githubusercontent.com/spiridono666/randomice-html/master/5168.html",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Pink Yellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Office Guy"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Green Yellow"
+        },
+        {
+            "trait_type": "Beard",
+            "value": "White Beard"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "Pink Cubism"
+        },
+        {
+            "trait_type": "Whiskers",
+            "value": "Zigzag"
+        },
+        {
+            "trait_type": "Nose",
+            "value": "Purple"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "GM"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Rainbow"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pirate"
+        }
+    ]
+}

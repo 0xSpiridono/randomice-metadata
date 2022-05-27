@@ -1,0 +1,48 @@
+{
+    "name": "RandoMouse #6162",
+    "external_link": "https://randomice.io/",
+    "image": "https://ipfs.io/ipfs/QmT4ozUFisQN3JxoFfFpRzEPW2sV5Bw8b5BRoc9VLD8Xpi/6162.png",
+    "animation_url": "https://raw.githubusercontent.com/spiridono666/randomice-html/master/6162.html",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Purple Peach"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Big Yellow"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Grey"
+        },
+        {
+            "trait_type": "Beard",
+            "value": "Brown Beard"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "Pink Cubism"
+        },
+        {
+            "trait_type": "Whiskers",
+            "value": "Arrows"
+        },
+        {
+            "trait_type": "Nose",
+            "value": "Pink"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Content"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Cake"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Nerd"
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "name": "RandoMouse #3617",
+    "external_link": "https://randomice.io/",
+    "image": "https://ipfs.io/ipfs/QmT4ozUFisQN3JxoFfFpRzEPW2sV5Bw8b5BRoc9VLD8Xpi/3617.png",
+    "animation_url": "https://raw.githubusercontent.com/spiridono666/randomice-html/master/3617.html",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Teal Pink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Sweaty"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Purple"
+        },
+        {
+            "trait_type": "Beard",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "Brown Cubism"
+        },
+        {
+            "trait_type": "Whiskers",
+            "value": "Arrows"
+        },
+        {
+            "trait_type": "Nose",
+            "value": "Brown"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "uWu"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Borgar"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Sus"
+        }
+    ]
+}

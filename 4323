@@ -1,0 +1,48 @@
+{
+    "name": "RandoMouse #4323",
+    "external_link": "https://randomice.io/",
+    "image": "https://ipfs.io/ipfs/QmT4ozUFisQN3JxoFfFpRzEPW2sV5Bw8b5BRoc9VLD8Xpi/4323.png",
+    "animation_url": "https://raw.githubusercontent.com/spiridono666/randomice-html/master/4323.html",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Pink Yellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Digger"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Purple"
+        },
+        {
+            "trait_type": "Beard",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "Pink Hearts"
+        },
+        {
+            "trait_type": "Whiskers",
+            "value": "Wavy"
+        },
+        {
+            "trait_type": "Nose",
+            "value": "Black"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Content"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Shrooms"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Cartoon"
+        }
+    ]
+}

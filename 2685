@@ -1,0 +1,48 @@
+{
+    "name": "RandoMouse #2685",
+    "external_link": "https://randomice.io/",
+    "image": "https://ipfs.io/ipfs/QmT4ozUFisQN3JxoFfFpRzEPW2sV5Bw8b5BRoc9VLD8Xpi/2685.png",
+    "animation_url": "https://raw.githubusercontent.com/spiridono666/randomice-html/master/2685.html",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Multicolor"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Jumper Pink"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Purple"
+        },
+        {
+            "trait_type": "Beard",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "Pink Cubism"
+        },
+        {
+            "trait_type": "Whiskers",
+            "value": "Straight"
+        },
+        {
+            "trait_type": "Nose",
+            "value": "Purple"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Orc"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Tinfoil Cap"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Yellow Shades"
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "name": "RandoMouse #3358",
+    "external_link": "https://randomice.io/",
+    "image": "https://ipfs.io/ipfs/QmT4ozUFisQN3JxoFfFpRzEPW2sV5Bw8b5BRoc9VLD8Xpi/3358.png",
+    "animation_url": "https://raw.githubusercontent.com/spiridono666/randomice-html/master/3358.html",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Team 69"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Green Yellow"
+        },
+        {
+            "trait_type": "Beard",
+            "value": "Blue Beard"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "Pink Round"
+        },
+        {
+            "trait_type": "Whiskers",
+            "value": "Curly"
+        },
+        {
+            "trait_type": "Nose",
+            "value": "Black"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Marylin"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Bzzzzz"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoner"
+        }
+    ]
+}

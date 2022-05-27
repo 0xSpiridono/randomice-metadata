@@ -1,0 +1,48 @@
+{
+    "name": "RandoMouse #6031",
+    "external_link": "https://randomice.io/",
+    "image": "https://ipfs.io/ipfs/QmT4ozUFisQN3JxoFfFpRzEPW2sV5Bw8b5BRoc9VLD8Xpi/6031.png",
+    "animation_url": "https://raw.githubusercontent.com/spiridono666/randomice-html/master/6031.html",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Purple Peach"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Sweaty"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Grey"
+        },
+        {
+            "trait_type": "Beard",
+            "value": "Blue Beard"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "Brown Round"
+        },
+        {
+            "trait_type": "Whiskers",
+            "value": "Arrows"
+        },
+        {
+            "trait_type": "Nose",
+            "value": "Purple"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "TNT"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Halo"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Love"
+        }
+    ]
+}

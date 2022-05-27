@@ -1,0 +1,48 @@
+{
+    "name": "RandoMouse #320",
+    "external_link": "https://randomice.io/",
+    "image": "https://ipfs.io/ipfs/QmT4ozUFisQN3JxoFfFpRzEPW2sV5Bw8b5BRoc9VLD8Xpi/320.png",
+    "animation_url": "https://raw.githubusercontent.com/spiridono666/randomice-html/master/320.html",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Teal Pink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Batmouse"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Green Yellow"
+        },
+        {
+            "trait_type": "Beard",
+            "value": "White Beard"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "Pink Round"
+        },
+        {
+            "trait_type": "Whiskers",
+            "value": "Curly"
+        },
+        {
+            "trait_type": "Nose",
+            "value": "Brown"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Tooth"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Green Wig"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Sus"
+        }
+    ]
+}

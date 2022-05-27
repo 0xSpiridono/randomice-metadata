@@ -1,0 +1,48 @@
+{
+    "name": "RandoMouse #75",
+    "external_link": "https://randomice.io/",
+    "image": "https://ipfs.io/ipfs/QmT4ozUFisQN3JxoFfFpRzEPW2sV5Bw8b5BRoc9VLD8Xpi/75.png",
+    "animation_url": "https://raw.githubusercontent.com/spiridono666/randomice-html/master/75.html",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Pink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Big Green "
+        },
+        {
+            "trait_type": "Head",
+            "value": "Grey"
+        },
+        {
+            "trait_type": "Beard",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "Brown Round"
+        },
+        {
+            "trait_type": "Whiskers",
+            "value": "Springs"
+        },
+        {
+            "trait_type": "Nose",
+            "value": "Brown"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Content"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Prehistoric"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Yellow Shades"
+        }
+    ]
+}

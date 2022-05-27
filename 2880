@@ -1,0 +1,48 @@
+{
+    "name": "RandoMouse #2880",
+    "external_link": "https://randomice.io/",
+    "image": "https://ipfs.io/ipfs/QmT4ozUFisQN3JxoFfFpRzEPW2sV5Bw8b5BRoc9VLD8Xpi/2880.png",
+    "animation_url": "https://raw.githubusercontent.com/spiridono666/randomice-html/master/2880.html",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Pink Yellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Elf"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Yellow"
+        },
+        {
+            "trait_type": "Beard",
+            "value": "Scarface"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "Brown Round"
+        },
+        {
+            "trait_type": "Whiskers",
+            "value": "Wavy"
+        },
+        {
+            "trait_type": "Nose",
+            "value": "Pink"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Nom Nom"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Blue Cap"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Yellow Shades"
+        }
+    ]
+}

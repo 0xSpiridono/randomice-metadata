@@ -1,0 +1,48 @@
+{
+    "name": "RandoMouse #2556",
+    "external_link": "https://randomice.io/",
+    "image": "https://ipfs.io/ipfs/QmT4ozUFisQN3JxoFfFpRzEPW2sV5Bw8b5BRoc9VLD8Xpi/2556.png",
+    "animation_url": "https://raw.githubusercontent.com/spiridono666/randomice-html/master/2556.html",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Pink Yellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Mice"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Green Yellow"
+        },
+        {
+            "trait_type": "Beard",
+            "value": "Scarface"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "Brown Hearts"
+        },
+        {
+            "trait_type": "Whiskers",
+            "value": "Springs"
+        },
+        {
+            "trait_type": "Nose",
+            "value": "Black"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Goofy Teeth"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Straw"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Gloomy"
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "name": "RandoMouse #3189",
+    "external_link": "https://randomice.io/",
+    "image": "https://ipfs.io/ipfs/QmT4ozUFisQN3JxoFfFpRzEPW2sV5Bw8b5BRoc9VLD8Xpi/3189.png",
+    "animation_url": "https://raw.githubusercontent.com/spiridono666/randomice-html/master/3189.html",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Pink Yellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Star"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Green Yellow"
+        },
+        {
+            "trait_type": "Beard",
+            "value": "Purple Beard"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "Pink Round"
+        },
+        {
+            "trait_type": "Whiskers",
+            "value": "Arrows"
+        },
+        {
+            "trait_type": "Nose",
+            "value": "Brown"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Blunt"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Antennas"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Lalala"
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "name": "RandoMouse #2623",
+    "external_link": "https://randomice.io/",
+    "image": "https://ipfs.io/ipfs/QmT4ozUFisQN3JxoFfFpRzEPW2sV5Bw8b5BRoc9VLD8Xpi/2623.png",
+    "animation_url": "https://raw.githubusercontent.com/spiridono666/randomice-html/master/2623.html",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Multicolor"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Mime"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Pink Blue"
+        },
+        {
+            "trait_type": "Beard",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "Pink Weird"
+        },
+        {
+            "trait_type": "Whiskers",
+            "value": "Curly"
+        },
+        {
+            "trait_type": "Nose",
+            "value": "Black"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "GM"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Fishnets"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pirate"
+        }
+    ]
+}

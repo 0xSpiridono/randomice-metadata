@@ -1,0 +1,48 @@
+{
+    "name": "RandoMouse #4042",
+    "external_link": "https://randomice.io/",
+    "image": "https://ipfs.io/ipfs/QmT4ozUFisQN3JxoFfFpRzEPW2sV5Bw8b5BRoc9VLD8Xpi/4042.png",
+    "animation_url": "https://raw.githubusercontent.com/spiridono666/randomice-html/master/4042.html",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Pink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Jumper Pink"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Pink Blue"
+        },
+        {
+            "trait_type": "Beard",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "Pink Weird"
+        },
+        {
+            "trait_type": "Whiskers",
+            "value": "Curly"
+        },
+        {
+            "trait_type": "Nose",
+            "value": "Brown"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Marylin"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Shrooms"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Dot Dot"
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "name": "RandoMouse #5770",
+    "external_link": "https://randomice.io/",
+    "image": "https://ipfs.io/ipfs/QmT4ozUFisQN3JxoFfFpRzEPW2sV5Bw8b5BRoc9VLD8Xpi/5770.png",
+    "animation_url": "https://raw.githubusercontent.com/spiridono666/randomice-html/master/5770.html",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Purple Peach"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Jumper Green"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Green Yellow"
+        },
+        {
+            "trait_type": "Beard",
+            "value": "Scarface"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "Pink Round"
+        },
+        {
+            "trait_type": "Whiskers",
+            "value": "Wavy"
+        },
+        {
+            "trait_type": "Nose",
+            "value": "Brown"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "TNT"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Hot Dog"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Happy"
+        }
+    ]
+}
