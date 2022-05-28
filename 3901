@@ -1,16 +1,17 @@
 {
     "name": "RandoMouse #3901",
     "external_link": "https://randomice.io/",
-    "image": "https://ipfs.io/ipfs/QmT4ozUFisQN3JxoFfFpRzEPW2sV5Bw8b5BRoc9VLD8Xpi/3901.png",
-    "animation_url": "https://raw.githubusercontent.com/spiridono666/randomice-html/master/3901.html",
+    "description": "Mice are nice!",
+    "image": "https://raw.githubusercontent.com/spiridono666/randomice-randomatron/master/3901.png",
+    "animation_url": "https://raw.githubusercontent.com/spiridono666/randomice-randomatron/master/3901.html",
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Green"
+            "value": "Dizzy Green"
         },
         {
             "trait_type": "Body",
-            "value": "Sweaty"
+            "value": "Wizard"
         },
         {
             "trait_type": "Head",

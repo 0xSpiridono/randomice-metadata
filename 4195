@@ -1,16 +1,17 @@
 {
     "name": "RandoMouse #4195",
     "external_link": "https://randomice.io/",
-    "image": "https://ipfs.io/ipfs/QmT4ozUFisQN3JxoFfFpRzEPW2sV5Bw8b5BRoc9VLD8Xpi/4195.png",
-    "animation_url": "https://raw.githubusercontent.com/spiridono666/randomice-html/master/4195.html",
+    "description": "Mice are nice!",
+    "image": "https://raw.githubusercontent.com/spiridono666/randomice-randomatron/master/4195.png",
+    "animation_url": "https://raw.githubusercontent.com/spiridono666/randomice-randomatron/master/4195.html",
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Purple Peach"
+            "value": "Dizzy Yellow"
         },
         {
             "trait_type": "Body",
-            "value": "Sweaty"
+            "value": "Wizard"
         },
         {
             "trait_type": "Head",
