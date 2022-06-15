@@ -1,0 +1,42 @@
+{
+    "name": "RandoMouse #3661",
+    "external_link": "https://randomice.io/",
+    "description": "Mice are nice!",
+    "image": "https://raw.githubusercontent.com/spiridono666/randomice-randomatron/master/3661.png",
+    "animation_url": "https://raw.githubusercontent.com/spiridono666/randomice-randomatron/master/3661.html",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Goblin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Mime"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Goblin"
+        },
+
+        {
+            "trait_type": "Whiskers",
+            "value": "Straight"
+        },
+        {
+            "trait_type": "Nose",
+            "value": "Goblin"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Yucky"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Sunny Side Up"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Goblin"
+        }
+    ]
+}
