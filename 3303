@@ -2,12 +2,12 @@
     "name": "RandoMouse #3303",
     "external_link": "https://randomice.io/",
     "description": "Mice are nice!",
-    "image": "https://ipfs.io/ipfs/QmT4ozUFisQN3JxoFfFpRzEPW2sV5Bw8b5BRoc9VLD8Xpi/3303.png",
-    "animation_url": "https://raw.githubusercontent.com/spiridono666/randomice-html/master/3303.html",
+    "image": "https://raw.githubusercontent.com/spiridono666/randomice-randomatron/master/3303.png",
+    "animation_url": "https://raw.githubusercontent.com/spiridono666/randomice-randomatron/master/3303.html",
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Multicolor"
+            "value": "Goblin"
         },
         {
             "trait_type": "Body",
@@ -15,23 +15,16 @@
         },
         {
             "trait_type": "Head",
-            "value": "Purple"
+            "value": "Goblin"
         },
-        {
-            "trait_type": "Beard",
-            "value": "Purple Beard"
-        },
-        {
-            "trait_type": "Ears",
-            "value": "Pink Weird"
-        },
+
         {
             "trait_type": "Whiskers",
             "value": "Springs"
         },
         {
             "trait_type": "Nose",
-            "value": "Brown"
+            "value": "Goblin"
         },
         {
             "trait_type": "Mouth",
@@ -43,7 +36,7 @@
         },
         {
             "trait_type": "Eyes",
-            "value": "Third Eye"
+            "value": "Goblin"
         }
     ]
 }
